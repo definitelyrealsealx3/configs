@@ -2,6 +2,7 @@
 .config/go/
 .config/'Mullvad VPN'/
 .config/pulse/
+.config/dconf/
 
 .config/clipse/clipboard_history.json
 .config/clipse/clipse.log
